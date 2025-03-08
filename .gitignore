@@ -1,0 +1,36 @@
+# Ignorar entorno virtual
+dagshub_env/
+dagshub_env/*
+
+# Ignorar directorios de MLflow
+mlruns/
+mlruns/*
+
+# Ignorar archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de configuración de entornos virtuales
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Archivos de logs y depuración
+*.log
+*.out
+*.err
+debug.log
+
+# Archivos de Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Archivos de credenciales o configuración local
+.env
+*.env
+config.yaml
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
