@@ -1,6 +1,6 @@
 # Trabajo de Fin de Grado
 ## Ingeniería del Software 
-### MODELOS PREDICTIVOS DE RESULTADOS DEPORTIVOS: APLICACIÓN DE MACHINE LEARNING EN PLATAFORMAS DE APUESTAS
+### Modelos Predictivos de Resultados Deportivos: Aplicación de Machine Learning en Plataformas de Apuestas
 
 CONVOCATORIA: ORDINARIA
 ALUMNA: ANA ISABEL GONZÁLEZ SAHAGÚN  
