@@ -2,6 +2,9 @@
 dagshub_env/
 dagshub_env/*
 
+# Ignorar archivos de configuración de Visual Studio Code
+tfg_inso_github.code-workspace
+
 # Ignorar directorios de MLflow
 mlruns/
 mlruns/*
